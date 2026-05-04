@@ -101,3 +101,18 @@ nav a:hover {
 .button-link:hover {
   background-color: #333;
 }
+
+.resume-actions {
+  padding-bottom: 20px;
+}
+
+.resume-viewer {
+  padding-top: 0;
+}
+
+.resume-viewer iframe {
+  width: 100%;
+  min-height: 700px;
+  border: 1px solid #ccc;
+  background-color: white;
+}
